@@ -17,7 +17,7 @@ local color_table = {
 }
 
 for _,v in ipairs(color_table) do
-	minetest.register_node("curtain:"..v[1].."_curtain_closed", {
+	core.register_node("curtain:"..v[1].."_curtain_closed", {
 		description = v[2].." Curtain",
 		tiles = {"wool_"..v[1]..".png"},
 		paramtype = "light",
@@ -37,11 +37,11 @@ for _,v in ipairs(color_table) do
 		sounds = default.node_sound_defaults(),
 		groups = {snappy=2,choppy=2,oddly_breakable_by_hand=3,flammable=3},
 		on_rightclick = function(pos, node, puncher)
-			minetest.swap_node(pos, {name = "curtain:"..v[1].."_curtain_open", param2 = node.param2})
+			core.swap_node(pos, {name = "curtain:"..v[1].."_curtain_open", param2 = node.param2})
 		end,
 	})
 
-	minetest.register_node("curtain:"..v[1].."_curtain_open", {
+	core.register_node("curtain:"..v[1].."_curtain_open", {
 		description = v[2].." Curtain open",
 		tiles = {"wool_"..v[1]..".png"},
 		paramtype = "light",
@@ -61,12 +61,12 @@ for _,v in ipairs(color_table) do
 		sounds = default.node_sound_defaults(),
 		groups = {snappy=2,choppy=2,oddly_breakable_by_hand=3,flammable=3,not_in_creative_inventory=1},
 		on_rightclick = function(pos, node, puncher)
-			minetest.swap_node(pos, {name = "curtain:"..v[1].."_curtain_closed", param2 = node.param2})
+			core.swap_node(pos, {name = "curtain:"..v[1].."_curtain_closed", param2 = node.param2})
 		end,
 		drop = "curtain:"..v[1].."_curtain_closed",
 	})
 
-	minetest.register_node("curtain:large_"..v[1].."_curtain_closed", {
+	core.register_node("curtain:large_"..v[1].."_curtain_closed", {
 		description = "Large "..v[2].." Curtain",
 		tiles = {"wool_"..v[1]..".png"},
 		paramtype = "light",
@@ -86,11 +86,11 @@ for _,v in ipairs(color_table) do
 		sounds = default.node_sound_defaults(),
 		groups = {snappy=2,choppy=2,oddly_breakable_by_hand=3,flammable=3},
 		on_rightclick = function(pos, node, puncher)
-			minetest.swap_node(pos, {name = "curtain:large_"..v[1].."_curtain_open", param2 = node.param2})
+			core.swap_node(pos, {name = "curtain:large_"..v[1].."_curtain_open", param2 = node.param2})
 		end,
 	})
 
-	minetest.register_node("curtain:large_"..v[1].."_curtain_open", {
+	core.register_node("curtain:large_"..v[1].."_curtain_open", {
 		description = "Large "..v[2].." Curtain open",
 		tiles = {"wool_"..v[1]..".png"},
 		paramtype = "light",
@@ -110,21 +110,21 @@ for _,v in ipairs(color_table) do
 		sounds = default.node_sound_defaults(),
 		groups = {snappy=2,choppy=2,oddly_breakable_by_hand=3,flammable=3,not_in_creative_inventory=1},
 		on_rightclick = function(pos, node, puncher)
-			minetest.swap_node(pos, {name = "curtain:large_"..v[1].."_curtain_closed", param2 = node.param2})
+			core.swap_node(pos, {name = "curtain:large_"..v[1].."_curtain_closed", param2 = node.param2})
 		end,
 		drop = "curtain:large_"..v[1].."_curtain_closed",
 	})
 
-	if minetest.registered_nodes["default:wool_"..v[1]] then
-		minetest.register_craft({
+	if core.registered_nodes["default:wool_"..v[1]] then
+		core.register_craft({
 			output = "curtain:"..v[1].."_curtain_closed",
 			recipe = {
 				{"group:stick"},
 				{"default:carpet_"..v[1]},
 			}
 		})
-	elseif (minetest.get_modpath("carpet_api")) then
-		minetest.register_craft({
+	elseif (core.get_modpath("carpet_api")) then
+		core.register_craft({
 			output = "curtain:"..v[1].."_curtain_closed",
 			recipe = {
 				{"group:stick"},
@@ -132,7 +132,7 @@ for _,v in ipairs(color_table) do
 			}
 		})
 	else
-		minetest.register_craft({
+		core.register_craft({
 			output = "curtain:"..v[1].."_curtain_closed 12",
 			recipe = {
 				{"group:stick", "group:stick", "group:stick"},
@@ -142,7 +142,7 @@ for _,v in ipairs(color_table) do
 		})
 	end
 
-	minetest.register_craft({
+	core.register_craft({
 		output = "curtain:large_"..v[1].."_curtain_closed",
 		recipe = {
 			{"curtain:"..v[1].."_curtain_closed"},
@@ -150,7 +150,7 @@ for _,v in ipairs(color_table) do
 		}
 	})
 
-	minetest.register_craft({
+	core.register_craft({
 		output = "curtain:"..v[1].."_curtain_closed 2",
 		recipe = {
 			{"curtain:large_"..v[1].."_curtain_closed"},
