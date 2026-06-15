@@ -1,3 +1,4 @@
+local S = core.get_translator("curtain")
 local color_table = {
 	{"white", "White"},
 	{"grey", "Grey"},
@@ -18,7 +19,7 @@ local color_table = {
 
 for _,v in ipairs(color_table) do
 	core.register_node("curtain:"..v[1].."_curtain_closed", {
-		description = v[2].." Curtain",
+		description = S(v[2].." Curtain"),
 		tiles = {"wool_"..v[1]..".png"},
 		paramtype = "light",
 		paramtype2 = "facedir",
@@ -42,7 +43,7 @@ for _,v in ipairs(color_table) do
 	})
 
 	core.register_node("curtain:"..v[1].."_curtain_open", {
-		description = v[2].." Curtain open",
+		description = S(v[2].." Curtain open"),
 		tiles = {"wool_"..v[1]..".png"},
 		paramtype = "light",
 		paramtype2 = "facedir",
@@ -67,7 +68,7 @@ for _,v in ipairs(color_table) do
 	})
 
 	core.register_node("curtain:large_"..v[1].."_curtain_closed", {
-		description = "Large "..v[2].." Curtain",
+		description = S("Large "..v[2].." Curtain"),
 		tiles = {"wool_"..v[1]..".png"},
 		paramtype = "light",
 		paramtype2 = "facedir",
@@ -91,7 +92,7 @@ for _,v in ipairs(color_table) do
 	})
 
 	core.register_node("curtain:large_"..v[1].."_curtain_open", {
-		description = "Large "..v[2].." Curtain open",
+		description = S("Large "..v[2].." Curtain open"),
 		tiles = {"wool_"..v[1]..".png"},
 		paramtype = "light",
 		paramtype2 = "facedir",
@@ -157,3 +158,75 @@ for _,v in ipairs(color_table) do
 		}
 	})
 end
+
+
+-- Dummy S() calls for translation scripts.
+--[[ To update run:
+for _, v in ipairs(color_table) do print(("S(%q)"):format(v[2].." Curtain")) end
+for _, v in ipairs(color_table) do print(("S(%q)"):format(v[2].." Curtain open")) end
+for _, v in ipairs(color_table) do print(("S(%q)"):format("Large "..v[2].." Curtain")) end
+for _, v in ipairs(color_table) do print(("S(%q)"):format("Large "..v[2].." Curtain open")) end
+]]--
+
+--[[
+S("White Curtain")
+S("Grey Curtain")
+S("Black Curtain")
+S("Red Curtain")
+S("Yellow Curtain")
+S("Green Curtain")
+S("Cyan Curtain")
+S("Blue Curtain")
+S("Magenta Curtain")
+S("Orange Curtain")
+S("Violet Curtain")
+S("Brown Curtain")
+S("Pink Curtain")
+S("Dark Grey Curtain")
+S("Dark Green Curtain")
+S("White Curtain open")
+S("Grey Curtain open")
+S("Black Curtain open")
+S("Red Curtain open")
+S("Yellow Curtain open")
+S("Green Curtain open")
+S("Cyan Curtain open")
+S("Blue Curtain open")
+S("Magenta Curtain open")
+S("Orange Curtain open")
+S("Violet Curtain open")
+S("Brown Curtain open")
+S("Pink Curtain open")
+S("Dark Grey Curtain open")
+S("Dark Green Curtain open")
+S("Large White Curtain")
+S("Large Grey Curtain")
+S("Large Black Curtain")
+S("Large Red Curtain")
+S("Large Yellow Curtain")
+S("Large Green Curtain")
+S("Large Cyan Curtain")
+S("Large Blue Curtain")
+S("Large Magenta Curtain")
+S("Large Orange Curtain")
+S("Large Violet Curtain")
+S("Large Brown Curtain")
+S("Large Pink Curtain")
+S("Large Dark Grey Curtain")
+S("Large Dark Green Curtain")
+S("Large White Curtain open")
+S("Large Grey Curtain open")
+S("Large Black Curtain open")
+S("Large Red Curtain open")
+S("Large Yellow Curtain open")
+S("Large Green Curtain open")
+S("Large Cyan Curtain open")
+S("Large Blue Curtain open")
+S("Large Magenta Curtain open")
+S("Large Orange Curtain open")
+S("Large Violet Curtain open")
+S("Large Brown Curtain open")
+S("Large Pink Curtain open")
+S("Large Dark Grey Curtain open")
+S("Large Dark Green Curtain open")
+]]--
