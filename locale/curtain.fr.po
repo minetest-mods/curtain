@@ -1,0 +1,270 @@
+# French translations for PACKAGE package.
+# Copyright (C) 2026 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-15 12:54-0500\n"
+"PO-Revision-Date: 2026-06-15 12:54-0500\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: init.lua:22
+msgid " Curtain"
+msgstr " Rideau"
+
+#: init.lua:46
+msgid " Curtain open"
+msgstr " Rideau ouvert"
+
+#: init.lua:71 init.lua:95
+msgid "Large "
+msgstr "Grand "
+
+#: init.lua:171
+msgid "White Curtain"
+msgstr "Rideau blanc"
+
+#: init.lua:172
+msgid "Grey Curtain"
+msgstr "Rideau gris"
+
+#: init.lua:173
+msgid "Black Curtain"
+msgstr "Rideau noir"
+
+#: init.lua:174
+msgid "Red Curtain"
+msgstr "Rideau rouge"
+
+#: init.lua:175
+msgid "Yellow Curtain"
+msgstr "Rideau jaune"
+
+#: init.lua:176
+msgid "Green Curtain"
+msgstr "Rideau vert"
+
+#: init.lua:177
+msgid "Cyan Curtain"
+msgstr "Rideau cyan"
+
+#: init.lua:178
+msgid "Blue Curtain"
+msgstr "Rideau bleu"
+
+#: init.lua:179
+msgid "Magenta Curtain"
+msgstr "Rideau magenta"
+
+#: init.lua:180
+msgid "Orange Curtain"
+msgstr "Rideau orange"
+
+#: init.lua:181
+msgid "Violet Curtain"
+msgstr "Rideau violet"
+
+#: init.lua:182
+msgid "Brown Curtain"
+msgstr "Rideau marron"
+
+#: init.lua:183
+msgid "Pink Curtain"
+msgstr "Rideau rose"
+
+#: init.lua:184
+msgid "Dark Grey Curtain"
+msgstr "Rideau gris foncé"
+
+#: init.lua:185
+msgid "Dark Green Curtain"
+msgstr "Rideau vert foncé"
+
+#: init.lua:186
+msgid "White Curtain open"
+msgstr "Rideau blanc ouvert"
+
+#: init.lua:187
+msgid "Grey Curtain open"
+msgstr "Rideau gris ouvert"
+
+#: init.lua:188
+msgid "Black Curtain open"
+msgstr "Rideau noir ouvert"
+
+#: init.lua:189
+msgid "Red Curtain open"
+msgstr "Rideau rouge ouvert"
+
+#: init.lua:190
+msgid "Yellow Curtain open"
+msgstr "Rideau jaune ouvert"
+
+#: init.lua:191
+msgid "Green Curtain open"
+msgstr "Rideau vert ouvert"
+
+#: init.lua:192
+msgid "Cyan Curtain open"
+msgstr "Rideau cyan ouvert"
+
+#: init.lua:193
+msgid "Blue Curtain open"
+msgstr "Rideau bleu ouvert"
+
+#: init.lua:194
+msgid "Magenta Curtain open"
+msgstr "Rideau magenta ouvert"
+
+#: init.lua:195
+msgid "Orange Curtain open"
+msgstr "Rideau orange ouvert"
+
+#: init.lua:196
+msgid "Violet Curtain open"
+msgstr "Rideau violet ouvert"
+
+#: init.lua:197
+msgid "Brown Curtain open"
+msgstr "Rideau marron ouvert"
+
+#: init.lua:198
+msgid "Pink Curtain open"
+msgstr "Rideau rose ouvert"
+
+#: init.lua:199
+msgid "Dark Grey Curtain open"
+msgstr "Rideau gris foncé ouvert"
+
+#: init.lua:200
+msgid "Dark Green Curtain open"
+msgstr "Rideau vert foncé ouvert"
+
+#: init.lua:201
+msgid "Large White Curtain"
+msgstr "Grand rideau blanc"
+
+#: init.lua:202
+msgid "Large Grey Curtain"
+msgstr "Grand rideau gris"
+
+#: init.lua:203
+msgid "Large Black Curtain"
+msgstr "Grand rideau noir"
+
+#: init.lua:204
+msgid "Large Red Curtain"
+msgstr "Grand rideau rouge"
+
+#: init.lua:205
+msgid "Large Yellow Curtain"
+msgstr "Grand rideau jaune"
+
+#: init.lua:206
+msgid "Large Green Curtain"
+msgstr "Grand rideau vert"
+
+#: init.lua:207
+msgid "Large Cyan Curtain"
+msgstr "Grand rideau cyan"
+
+#: init.lua:208
+msgid "Large Blue Curtain"
+msgstr "Grand rideau bleu"
+
+#: init.lua:209
+msgid "Large Magenta Curtain"
+msgstr "Grand rideau magenta"
+
+#: init.lua:210
+msgid "Large Orange Curtain"
+msgstr "Grand rideau orange"
+
+#: init.lua:211
+msgid "Large Violet Curtain"
+msgstr "Grand rideau violet"
+
+#: init.lua:212
+msgid "Large Brown Curtain"
+msgstr "Grand rideau marron"
+
+#: init.lua:213
+msgid "Large Pink Curtain"
+msgstr "Grand rideau rose"
+
+#: init.lua:214
+msgid "Large Dark Grey Curtain"
+msgstr "Grand rideau gris foncé"
+
+#: init.lua:215
+msgid "Large Dark Green Curtain"
+msgstr "Grand rideau vert foncé"
+
+#: init.lua:216
+msgid "Large White Curtain open"
+msgstr "Grand rideau blanc ouvert"
+
+#: init.lua:217
+msgid "Large Grey Curtain open"
+msgstr "Grand rideau gris ouvert"
+
+#: init.lua:218
+msgid "Large Black Curtain open"
+msgstr "Grand rideau noir ouvert"
+
+#: init.lua:219
+msgid "Large Red Curtain open"
+msgstr "Grand rideau rouge ouvert"
+
+#: init.lua:220
+msgid "Large Yellow Curtain open"
+msgstr "Grand rideau jaune ouvert"
+
+#: init.lua:221
+msgid "Large Green Curtain open"
+msgstr "Grand rideau vert ouvert"
+
+#: init.lua:222
+msgid "Large Cyan Curtain open"
+msgstr "Grand rideau cyan ouvert"
+
+#: init.lua:223
+msgid "Large Blue Curtain open"
+msgstr "Grand rideau bleu ouvert"
+
+#: init.lua:224
+msgid "Large Magenta Curtain open"
+msgstr "Grand rideau magenta ouvert"
+
+#: init.lua:225
+msgid "Large Orange Curtain open"
+msgstr "Grand rideau orange ouvert"
+
+#: init.lua:226
+msgid "Large Violet Curtain open"
+msgstr "Grand rideau violet ouvert"
+
+#: init.lua:227
+msgid "Large Brown Curtain open"
+msgstr "Grand rideau marron ouvert"
+
+#: init.lua:228
+msgid "Large Pink Curtain open"
+msgstr "Grand rideau rose ouvert"
+
+#: init.lua:229
+msgid "Large Dark Grey Curtain open"
+msgstr "Grand rideau gris foncé ouvert"
+
+#: init.lua:230
+msgid "Large Dark Green Curtain open"
+msgstr "Grand rideau vert foncé ouvert"

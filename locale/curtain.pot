@@ -1,0 +1,270 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-15 12:54-0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: init.lua:22
+msgid " Curtain"
+msgstr ""
+
+#: init.lua:46
+msgid " Curtain open"
+msgstr ""
+
+#: init.lua:71 init.lua:95
+msgid "Large "
+msgstr ""
+
+#: init.lua:171
+msgid "White Curtain"
+msgstr ""
+
+#: init.lua:172
+msgid "Grey Curtain"
+msgstr ""
+
+#: init.lua:173
+msgid "Black Curtain"
+msgstr ""
+
+#: init.lua:174
+msgid "Red Curtain"
+msgstr ""
+
+#: init.lua:175
+msgid "Yellow Curtain"
+msgstr ""
+
+#: init.lua:176
+msgid "Green Curtain"
+msgstr ""
+
+#: init.lua:177
+msgid "Cyan Curtain"
+msgstr ""
+
+#: init.lua:178
+msgid "Blue Curtain"
+msgstr ""
+
+#: init.lua:179
+msgid "Magenta Curtain"
+msgstr ""
+
+#: init.lua:180
+msgid "Orange Curtain"
+msgstr ""
+
+#: init.lua:181
+msgid "Violet Curtain"
+msgstr ""
+
+#: init.lua:182
+msgid "Brown Curtain"
+msgstr ""
+
+#: init.lua:183
+msgid "Pink Curtain"
+msgstr ""
+
+#: init.lua:184
+msgid "Dark Grey Curtain"
+msgstr ""
+
+#: init.lua:185
+msgid "Dark Green Curtain"
+msgstr ""
+
+#: init.lua:186
+msgid "White Curtain open"
+msgstr ""
+
+#: init.lua:187
+msgid "Grey Curtain open"
+msgstr ""
+
+#: init.lua:188
+msgid "Black Curtain open"
+msgstr ""
+
+#: init.lua:189
+msgid "Red Curtain open"
+msgstr ""
+
+#: init.lua:190
+msgid "Yellow Curtain open"
+msgstr ""
+
+#: init.lua:191
+msgid "Green Curtain open"
+msgstr ""
+
+#: init.lua:192
+msgid "Cyan Curtain open"
+msgstr ""
+
+#: init.lua:193
+msgid "Blue Curtain open"
+msgstr ""
+
+#: init.lua:194
+msgid "Magenta Curtain open"
+msgstr ""
+
+#: init.lua:195
+msgid "Orange Curtain open"
+msgstr ""
+
+#: init.lua:196
+msgid "Violet Curtain open"
+msgstr ""
+
+#: init.lua:197
+msgid "Brown Curtain open"
+msgstr ""
+
+#: init.lua:198
+msgid "Pink Curtain open"
+msgstr ""
+
+#: init.lua:199
+msgid "Dark Grey Curtain open"
+msgstr ""
+
+#: init.lua:200
+msgid "Dark Green Curtain open"
+msgstr ""
+
+#: init.lua:201
+msgid "Large White Curtain"
+msgstr ""
+
+#: init.lua:202
+msgid "Large Grey Curtain"
+msgstr ""
+
+#: init.lua:203
+msgid "Large Black Curtain"
+msgstr ""
+
+#: init.lua:204
+msgid "Large Red Curtain"
+msgstr ""
+
+#: init.lua:205
+msgid "Large Yellow Curtain"
+msgstr ""
+
+#: init.lua:206
+msgid "Large Green Curtain"
+msgstr ""
+
+#: init.lua:207
+msgid "Large Cyan Curtain"
+msgstr ""
+
+#: init.lua:208
+msgid "Large Blue Curtain"
+msgstr ""
+
+#: init.lua:209
+msgid "Large Magenta Curtain"
+msgstr ""
+
+#: init.lua:210
+msgid "Large Orange Curtain"
+msgstr ""
+
+#: init.lua:211
+msgid "Large Violet Curtain"
+msgstr ""
+
+#: init.lua:212
+msgid "Large Brown Curtain"
+msgstr ""
+
+#: init.lua:213
+msgid "Large Pink Curtain"
+msgstr ""
+
+#: init.lua:214
+msgid "Large Dark Grey Curtain"
+msgstr ""
+
+#: init.lua:215
+msgid "Large Dark Green Curtain"
+msgstr ""
+
+#: init.lua:216
+msgid "Large White Curtain open"
+msgstr ""
+
+#: init.lua:217
+msgid "Large Grey Curtain open"
+msgstr ""
+
+#: init.lua:218
+msgid "Large Black Curtain open"
+msgstr ""
+
+#: init.lua:219
+msgid "Large Red Curtain open"
+msgstr ""
+
+#: init.lua:220
+msgid "Large Yellow Curtain open"
+msgstr ""
+
+#: init.lua:221
+msgid "Large Green Curtain open"
+msgstr ""
+
+#: init.lua:222
+msgid "Large Cyan Curtain open"
+msgstr ""
+
+#: init.lua:223
+msgid "Large Blue Curtain open"
+msgstr ""
+
+#: init.lua:224
+msgid "Large Magenta Curtain open"
+msgstr ""
+
+#: init.lua:225
+msgid "Large Orange Curtain open"
+msgstr ""
+
+#: init.lua:226
+msgid "Large Violet Curtain open"
+msgstr ""
+
+#: init.lua:227
+msgid "Large Brown Curtain open"
+msgstr ""
+
+#: init.lua:228
+msgid "Large Pink Curtain open"
+msgstr ""
+
+#: init.lua:229
+msgid "Large Dark Grey Curtain open"
+msgstr ""
+
+#: init.lua:230
+msgid "Large Dark Green Curtain open"
+msgstr ""
