@@ -1,0 +1,270 @@
+# Italian translations for PACKAGE package.
+# Copyright (C) 2026 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-15 12:54-0500\n"
+"PO-Revision-Date: 2026-06-15 12:54-0500\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: init.lua:22
+msgid " Curtain"
+msgstr " Tenda"
+
+#: init.lua:46
+msgid " Curtain open"
+msgstr " Tenda aperta"
+
+#: init.lua:71 init.lua:95
+msgid "Large "
+msgstr "Grande "
+
+#: init.lua:171
+msgid "White Curtain"
+msgstr "Tenda bianca"
+
+#: init.lua:172
+msgid "Grey Curtain"
+msgstr "Tenda grigia"
+
+#: init.lua:173
+msgid "Black Curtain"
+msgstr "Tenda nera"
+
+#: init.lua:174
+msgid "Red Curtain"
+msgstr "Tenda rossa"
+
+#: init.lua:175
+msgid "Yellow Curtain"
+msgstr "Tenda gialla"
+
+#: init.lua:176
+msgid "Green Curtain"
+msgstr "Tenda verde"
+
+#: init.lua:177
+msgid "Cyan Curtain"
+msgstr "Tenda ciano"
+
+#: init.lua:178
+msgid "Blue Curtain"
+msgstr "Tenda blu"
+
+#: init.lua:179
+msgid "Magenta Curtain"
+msgstr "Tenda magenta"
+
+#: init.lua:180
+msgid "Orange Curtain"
+msgstr "Tenda arancione"
+
+#: init.lua:181
+msgid "Violet Curtain"
+msgstr "Tenda viola"
+
+#: init.lua:182
+msgid "Brown Curtain"
+msgstr "Tenda marrone"
+
+#: init.lua:183
+msgid "Pink Curtain"
+msgstr "Tenda rosa"
+
+#: init.lua:184
+msgid "Dark Grey Curtain"
+msgstr "Tenda grigio scura"
+
+#: init.lua:185
+msgid "Dark Green Curtain"
+msgstr "Tenda verde scura"
+
+#: init.lua:186
+msgid "White Curtain open"
+msgstr "Tenda bianca aperta"
+
+#: init.lua:187
+msgid "Grey Curtain open"
+msgstr "Tenda grigia aperta"
+
+#: init.lua:188
+msgid "Black Curtain open"
+msgstr "Tenda nera aperta"
+
+#: init.lua:189
+msgid "Red Curtain open"
+msgstr "Tenda rossa aperta"
+
+#: init.lua:190
+msgid "Yellow Curtain open"
+msgstr "Tenda gialla aperta"
+
+#: init.lua:191
+msgid "Green Curtain open"
+msgstr "Tenda verde aperta"
+
+#: init.lua:192
+msgid "Cyan Curtain open"
+msgstr "Tenda ciano aperta"
+
+#: init.lua:193
+msgid "Blue Curtain open"
+msgstr "Tenda blu aperta"
+
+#: init.lua:194
+msgid "Magenta Curtain open"
+msgstr "Tenda magenta aperta"
+
+#: init.lua:195
+msgid "Orange Curtain open"
+msgstr "Tenda arancione aperta"
+
+#: init.lua:196
+msgid "Violet Curtain open"
+msgstr "Tenda viola aperta"
+
+#: init.lua:197
+msgid "Brown Curtain open"
+msgstr "Tenda marrone aperta"
+
+#: init.lua:198
+msgid "Pink Curtain open"
+msgstr "Tenda rosa aperta"
+
+#: init.lua:199
+msgid "Dark Grey Curtain open"
+msgstr "Tenda grigio scura aperta"
+
+#: init.lua:200
+msgid "Dark Green Curtain open"
+msgstr "Tenda verde scura aperta"
+
+#: init.lua:201
+msgid "Large White Curtain"
+msgstr "Grande tenda bianca"
+
+#: init.lua:202
+msgid "Large Grey Curtain"
+msgstr "Grande tenda grigia"
+
+#: init.lua:203
+msgid "Large Black Curtain"
+msgstr "Grande tenda nera"
+
+#: init.lua:204
+msgid "Large Red Curtain"
+msgstr "Grande tenda rossa"
+
+#: init.lua:205
+msgid "Large Yellow Curtain"
+msgstr "Grande tenda gialla"
+
+#: init.lua:206
+msgid "Large Green Curtain"
+msgstr "Grande tenda verde"
+
+#: init.lua:207
+msgid "Large Cyan Curtain"
+msgstr "Grande tenda ciano"
+
+#: init.lua:208
+msgid "Large Blue Curtain"
+msgstr "Grande tenda blu"
+
+#: init.lua:209
+msgid "Large Magenta Curtain"
+msgstr "Grande tenda magenta"
+
+#: init.lua:210
+msgid "Large Orange Curtain"
+msgstr "Grande tenda arancione"
+
+#: init.lua:211
+msgid "Large Violet Curtain"
+msgstr "Grande tenda viola"
+
+#: init.lua:212
+msgid "Large Brown Curtain"
+msgstr "Grande tenda marrone"
+
+#: init.lua:213
+msgid "Large Pink Curtain"
+msgstr "Grande tenda rosa"
+
+#: init.lua:214
+msgid "Large Dark Grey Curtain"
+msgstr "Grande tenda grigio scura"
+
+#: init.lua:215
+msgid "Large Dark Green Curtain"
+msgstr "Grande tenda verde scura"
+
+#: init.lua:216
+msgid "Large White Curtain open"
+msgstr "Grande tenda bianca aperta"
+
+#: init.lua:217
+msgid "Large Grey Curtain open"
+msgstr "Grande tenda grigia aperta"
+
+#: init.lua:218
+msgid "Large Black Curtain open"
+msgstr "Grande tenda nera aperta"
+
+#: init.lua:219
+msgid "Large Red Curtain open"
+msgstr "Grande tenda rossa aperta"
+
+#: init.lua:220
+msgid "Large Yellow Curtain open"
+msgstr "Grande tenda gialla aperta"
+
+#: init.lua:221
+msgid "Large Green Curtain open"
+msgstr "Grande tenda verde aperta"
+
+#: init.lua:222
+msgid "Large Cyan Curtain open"
+msgstr "Grande tenda ciano aperta"
+
+#: init.lua:223
+msgid "Large Blue Curtain open"
+msgstr "Grande tenda blu aperta"
+
+#: init.lua:224
+msgid "Large Magenta Curtain open"
+msgstr "Grande tenda magenta aperta"
+
+#: init.lua:225
+msgid "Large Orange Curtain open"
+msgstr "Grande tenda arancione aperta"
+
+#: init.lua:226
+msgid "Large Violet Curtain open"
+msgstr "Grande tenda viola aperta"
+
+#: init.lua:227
+msgid "Large Brown Curtain open"
+msgstr "Grande tenda marrone aperta"
+
+#: init.lua:228
+msgid "Large Pink Curtain open"
+msgstr "Grande tenda rosa aperta"
+
+#: init.lua:229
+msgid "Large Dark Grey Curtain open"
+msgstr "Grande tenda grigio scura aperta"
+
+#: init.lua:230
+msgid "Large Dark Green Curtain open"
+msgstr "Grande tenda verde scura aperta"

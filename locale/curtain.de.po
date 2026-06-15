@@ -1,0 +1,270 @@
+# German translations for PACKAGE package.
+# Copyright (C) 2026 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-15 12:54-0500\n"
+"PO-Revision-Date: 2026-06-15 12:54-0500\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: init.lua:22
+msgid " Curtain"
+msgstr " Vorhang"
+
+#: init.lua:46
+msgid " Curtain open"
+msgstr " Vorhang offen"
+
+#: init.lua:71 init.lua:95
+msgid "Large "
+msgstr "Großer "
+
+#: init.lua:171
+msgid "White Curtain"
+msgstr "Weißer Vorhang"
+
+#: init.lua:172
+msgid "Grey Curtain"
+msgstr "Grauer Vorhang"
+
+#: init.lua:173
+msgid "Black Curtain"
+msgstr "Schwarzer Vorhang"
+
+#: init.lua:174
+msgid "Red Curtain"
+msgstr "Roter Vorhang"
+
+#: init.lua:175
+msgid "Yellow Curtain"
+msgstr "Gelber Vorhang"
+
+#: init.lua:176
+msgid "Green Curtain"
+msgstr "Grüner Vorhang"
+
+#: init.lua:177
+msgid "Cyan Curtain"
+msgstr "Cyaner Vorhang"
+
+#: init.lua:178
+msgid "Blue Curtain"
+msgstr "Blauer Vorhang"
+
+#: init.lua:179
+msgid "Magenta Curtain"
+msgstr "Magenta Vorhang"
+
+#: init.lua:180
+msgid "Orange Curtain"
+msgstr "Oranger Vorhang"
+
+#: init.lua:181
+msgid "Violet Curtain"
+msgstr "Violetter Vorhang"
+
+#: init.lua:182
+msgid "Brown Curtain"
+msgstr "Brauner Vorhang"
+
+#: init.lua:183
+msgid "Pink Curtain"
+msgstr "Pinker Vorhang"
+
+#: init.lua:184
+msgid "Dark Grey Curtain"
+msgstr "Dunkelgrauer Vorhang"
+
+#: init.lua:185
+msgid "Dark Green Curtain"
+msgstr "Dunkelgrüner Vorhang"
+
+#: init.lua:186
+msgid "White Curtain open"
+msgstr "Weißer Vorhang offen"
+
+#: init.lua:187
+msgid "Grey Curtain open"
+msgstr "Grauer Vorhang offen"
+
+#: init.lua:188
+msgid "Black Curtain open"
+msgstr "Schwarzer Vorhang offen"
+
+#: init.lua:189
+msgid "Red Curtain open"
+msgstr "Roter Vorhang offen"
+
+#: init.lua:190
+msgid "Yellow Curtain open"
+msgstr "Gelber Vorhang offen"
+
+#: init.lua:191
+msgid "Green Curtain open"
+msgstr "Grüner Vorhang offen"
+
+#: init.lua:192
+msgid "Cyan Curtain open"
+msgstr "Cyaner Vorhang offen"
+
+#: init.lua:193
+msgid "Blue Curtain open"
+msgstr "Blauer Vorhang offen"
+
+#: init.lua:194
+msgid "Magenta Curtain open"
+msgstr "Magenta Vorhang offen"
+
+#: init.lua:195
+msgid "Orange Curtain open"
+msgstr "Oranger Vorhang offen"
+
+#: init.lua:196
+msgid "Violet Curtain open"
+msgstr "Violetter Vorhang offen"
+
+#: init.lua:197
+msgid "Brown Curtain open"
+msgstr "Brauner Vorhang offen"
+
+#: init.lua:198
+msgid "Pink Curtain open"
+msgstr "Pinker Vorhang offen"
+
+#: init.lua:199
+msgid "Dark Grey Curtain open"
+msgstr "Dunkelgrauer Vorhang offen"
+
+#: init.lua:200
+msgid "Dark Green Curtain open"
+msgstr "Dunkelgrüner Vorhang offen"
+
+#: init.lua:201
+msgid "Large White Curtain"
+msgstr "Großer Weißer Vorhang"
+
+#: init.lua:202
+msgid "Large Grey Curtain"
+msgstr "Großer Grauer Vorhang"
+
+#: init.lua:203
+msgid "Large Black Curtain"
+msgstr "Großer Schwarzer Vorhang"
+
+#: init.lua:204
+msgid "Large Red Curtain"
+msgstr "Großer Roter Vorhang"
+
+#: init.lua:205
+msgid "Large Yellow Curtain"
+msgstr "Großer Gelber Vorhang"
+
+#: init.lua:206
+msgid "Large Green Curtain"
+msgstr "Großer Grüner Vorhang"
+
+#: init.lua:207
+msgid "Large Cyan Curtain"
+msgstr "Großer Cyaner Vorhang"
+
+#: init.lua:208
+msgid "Large Blue Curtain"
+msgstr "Großer Blauer Vorhang"
+
+#: init.lua:209
+msgid "Large Magenta Curtain"
+msgstr "Großer Magenta Vorhang"
+
+#: init.lua:210
+msgid "Large Orange Curtain"
+msgstr "Großer Oranger Vorhang"
+
+#: init.lua:211
+msgid "Large Violet Curtain"
+msgstr "Großer Violetter Vorhang"
+
+#: init.lua:212
+msgid "Large Brown Curtain"
+msgstr "Großer Brauner Vorhang"
+
+#: init.lua:213
+msgid "Large Pink Curtain"
+msgstr "Großer Pinker Vorhang"
+
+#: init.lua:214
+msgid "Large Dark Grey Curtain"
+msgstr "Großer Dunkelgrauer Vorhang"
+
+#: init.lua:215
+msgid "Large Dark Green Curtain"
+msgstr "Großer Dunkelgrüner Vorhang"
+
+#: init.lua:216
+msgid "Large White Curtain open"
+msgstr "Großer Weißer Vorhang offen"
+
+#: init.lua:217
+msgid "Large Grey Curtain open"
+msgstr "Großer Grauer Vorhang offen"
+
+#: init.lua:218
+msgid "Large Black Curtain open"
+msgstr "Großer Schwarzer Vorhang offen"
+
+#: init.lua:219
+msgid "Large Red Curtain open"
+msgstr "Großer Roter Vorhang offen"
+
+#: init.lua:220
+msgid "Large Yellow Curtain open"
+msgstr "Großer Gelber Vorhang offen"
+
+#: init.lua:221
+msgid "Large Green Curtain open"
+msgstr "Großer Grüner Vorhang offen"
+
+#: init.lua:222
+msgid "Large Cyan Curtain open"
+msgstr "Großer Cyaner Vorhang offen"
+
+#: init.lua:223
+msgid "Large Blue Curtain open"
+msgstr "Großer Blauer Vorhang offen"
+
+#: init.lua:224
+msgid "Large Magenta Curtain open"
+msgstr "Großer Magenta Vorhang offen"
+
+#: init.lua:225
+msgid "Large Orange Curtain open"
+msgstr "Großer Oranger Vorhang offen"
+
+#: init.lua:226
+msgid "Large Violet Curtain open"
+msgstr "Großer Violetter Vorhang offen"
+
+#: init.lua:227
+msgid "Large Brown Curtain open"
+msgstr "Großer Brauner Vorhang offen"
+
+#: init.lua:228
+msgid "Large Pink Curtain open"
+msgstr "Großer Pinker Vorhang offen"
+
+#: init.lua:229
+msgid "Large Dark Grey Curtain open"
+msgstr "Großer Dunkelgrauer Vorhang offen"
+
+#: init.lua:230
+msgid "Large Dark Green Curtain open"
+msgstr "Großer Dunkelgrüner Vorhang offen"

@@ -1,0 +1,270 @@
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2026 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Automatically generated, 2026.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-15 12:54-0500\n"
+"PO-Revision-Date: 2026-06-15 12:54-0500\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: init.lua:22
+msgid " Curtain"
+msgstr " Cortina"
+
+#: init.lua:46
+msgid " Curtain open"
+msgstr " Cortina abierta"
+
+#: init.lua:71 init.lua:95
+msgid "Large "
+msgstr "Grande "
+
+#: init.lua:171
+msgid "White Curtain"
+msgstr "Cortina blanca"
+
+#: init.lua:172
+msgid "Grey Curtain"
+msgstr "Cortina gris"
+
+#: init.lua:173
+msgid "Black Curtain"
+msgstr "Cortina negra"
+
+#: init.lua:174
+msgid "Red Curtain"
+msgstr "Cortina roja"
+
+#: init.lua:175
+msgid "Yellow Curtain"
+msgstr "Cortina amarilla"
+
+#: init.lua:176
+msgid "Green Curtain"
+msgstr "Cortina verde"
+
+#: init.lua:177
+msgid "Cyan Curtain"
+msgstr "Cortina cian"
+
+#: init.lua:178
+msgid "Blue Curtain"
+msgstr "Cortina azul"
+
+#: init.lua:179
+msgid "Magenta Curtain"
+msgstr "Cortina magenta"
+
+#: init.lua:180
+msgid "Orange Curtain"
+msgstr "Cortina naranja"
+
+#: init.lua:181
+msgid "Violet Curtain"
+msgstr "Cortina violeta"
+
+#: init.lua:182
+msgid "Brown Curtain"
+msgstr "Cortina marrón"
+
+#: init.lua:183
+msgid "Pink Curtain"
+msgstr "Cortina rosa"
+
+#: init.lua:184
+msgid "Dark Grey Curtain"
+msgstr "Cortina gris oscura"
+
+#: init.lua:185
+msgid "Dark Green Curtain"
+msgstr "Cortina verde oscura"
+
+#: init.lua:186
+msgid "White Curtain open"
+msgstr "Cortina blanca abierta"
+
+#: init.lua:187
+msgid "Grey Curtain open"
+msgstr "Cortina gris abierta"
+
+#: init.lua:188
+msgid "Black Curtain open"
+msgstr "Cortina negra abierta"
+
+#: init.lua:189
+msgid "Red Curtain open"
+msgstr "Cortina roja abierta"
+
+#: init.lua:190
+msgid "Yellow Curtain open"
+msgstr "Cortina amarilla abierta"
+
+#: init.lua:191
+msgid "Green Curtain open"
+msgstr "Cortina verde abierta"
+
+#: init.lua:192
+msgid "Cyan Curtain open"
+msgstr "Cortina cian abierta"
+
+#: init.lua:193
+msgid "Blue Curtain open"
+msgstr "Cortina azul abierta"
+
+#: init.lua:194
+msgid "Magenta Curtain open"
+msgstr "Cortina magenta abierta"
+
+#: init.lua:195
+msgid "Orange Curtain open"
+msgstr "Cortina naranja abierta"
+
+#: init.lua:196
+msgid "Violet Curtain open"
+msgstr "Cortina violeta abierta"
+
+#: init.lua:197
+msgid "Brown Curtain open"
+msgstr "Cortina marrón abierta"
+
+#: init.lua:198
+msgid "Pink Curtain open"
+msgstr "Cortina rosa abierta"
+
+#: init.lua:199
+msgid "Dark Grey Curtain open"
+msgstr "Cortina gris oscura abierta"
+
+#: init.lua:200
+msgid "Dark Green Curtain open"
+msgstr "Cortina verde oscura abierta"
+
+#: init.lua:201
+msgid "Large White Curtain"
+msgstr "Cortina blanca grande"
+
+#: init.lua:202
+msgid "Large Grey Curtain"
+msgstr "Cortina gris grande"
+
+#: init.lua:203
+msgid "Large Black Curtain"
+msgstr "Cortina negra grande"
+
+#: init.lua:204
+msgid "Large Red Curtain"
+msgstr "Cortina roja grande"
+
+#: init.lua:205
+msgid "Large Yellow Curtain"
+msgstr "Cortina amarilla grande"
+
+#: init.lua:206
+msgid "Large Green Curtain"
+msgstr "Cortina verde grande"
+
+#: init.lua:207
+msgid "Large Cyan Curtain"
+msgstr "Cortina cian grande"
+
+#: init.lua:208
+msgid "Large Blue Curtain"
+msgstr "Cortina azul grande"
+
+#: init.lua:209
+msgid "Large Magenta Curtain"
+msgstr "Cortina magenta grande"
+
+#: init.lua:210
+msgid "Large Orange Curtain"
+msgstr "Cortina naranja grande"
+
+#: init.lua:211
+msgid "Large Violet Curtain"
+msgstr "Cortina violeta grande"
+
+#: init.lua:212
+msgid "Large Brown Curtain"
+msgstr "Cortina marrón grande"
+
+#: init.lua:213
+msgid "Large Pink Curtain"
+msgstr "Cortina rosa grande"
+
+#: init.lua:214
+msgid "Large Dark Grey Curtain"
+msgstr "Cortina gris oscura grande"
+
+#: init.lua:215
+msgid "Large Dark Green Curtain"
+msgstr "Cortina verde oscura grande"
+
+#: init.lua:216
+msgid "Large White Curtain open"
+msgstr "Cortina blanca grande abierta"
+
+#: init.lua:217
+msgid "Large Grey Curtain open"
+msgstr "Cortina gris grande abierta"
+
+#: init.lua:218
+msgid "Large Black Curtain open"
+msgstr "Cortina negra grande abierta"
+
+#: init.lua:219
+msgid "Large Red Curtain open"
+msgstr "Cortina roja grande abierta"
+
+#: init.lua:220
+msgid "Large Yellow Curtain open"
+msgstr "Cortina amarilla grande abierta"
+
+#: init.lua:221
+msgid "Large Green Curtain open"
+msgstr "Cortina verde grande abierta"
+
+#: init.lua:222
+msgid "Large Cyan Curtain open"
+msgstr "Cortina cian grande abierta"
+
+#: init.lua:223
+msgid "Large Blue Curtain open"
+msgstr "Cortina azul grande abierta"
+
+#: init.lua:224
+msgid "Large Magenta Curtain open"
+msgstr "Cortina magenta grande abierta"
+
+#: init.lua:225
+msgid "Large Orange Curtain open"
+msgstr "Cortina naranja grande abierta"
+
+#: init.lua:226
+msgid "Large Violet Curtain open"
+msgstr "Cortina violeta grande abierta"
+
+#: init.lua:227
+msgid "Large Brown Curtain open"
+msgstr "Cortina marrón grande abierta"
+
+#: init.lua:228
+msgid "Large Pink Curtain open"
+msgstr "Cortina rosa grande abierta"
+
+#: init.lua:229
+msgid "Large Dark Grey Curtain open"
+msgstr "Cortina gris oscura grande abierta"
+
+#: init.lua:230
+msgid "Large Dark Green Curtain open"
+msgstr "Cortina verde oscura grande abierta"
